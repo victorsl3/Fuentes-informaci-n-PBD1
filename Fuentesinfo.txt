@@ -3,7 +3,7 @@ Estadísticas jugadores:
 •	http://linguasport.com/futbol/nacional/liga/seekresult_esp.asp 
 
 Valores de mercado para el entrenamiento del modelo
-•https://www.transfermarkt.es/
+• https://www.transfermarkt.es/
 
 Popularidad jugadores: 
 •	API Instagram
