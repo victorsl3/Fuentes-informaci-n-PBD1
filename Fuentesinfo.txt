@@ -2,6 +2,9 @@ Estadísticas jugadores:
 •	https://www.laliga.com/estadisticas
 •	http://linguasport.com/futbol/nacional/liga/seekresult_esp.asp 
 
+Valores de mercado para el entrenamiento del modelo
+•https://www.transfermarkt.es/
+
 Popularidad jugadores: 
 •	API Instagram
 •	API Twitter
