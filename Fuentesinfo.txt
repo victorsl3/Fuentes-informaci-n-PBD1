@@ -1,28 +1,3 @@
-Estadísticas jugadores en cada partido: 
-•	https://www.laliga.com/estadisticas
-•	http://linguasport.com/futbol/nacional/liga/seekresult_esp.asp 
-  Se recogerán tras cada jornada liguera
-
-Valores de mercado para el entrenamiento del modelo
-•	https://www.transfermarkt.es/
-  Serán utilizados para recoger los valores de mercado actuales y realizar el entrenamiento
-
-Popularidad jugadores: 
-•	API Instagram
-•	API Twitter
-  Podría recogerse en tiempo real, o bien compilarlos periódicamente en batchs
-
-Salarios y datos históricos de los jugadores
-•	http://linguasport.com/futbol/nacional/liga/seekresult_esp.asp
-  Recogidos y procesados una sola vez, también útiles para el entrenamiento del modelo
-
-Situación económica de los clubes: 
-•	https://www.palco23.com/clubes/deuda-caja-y-valoracion-los-clubes-de-laliga-frente-al-examen-financiero-post-covid-19.html
-  Recogidos una única vez
-
-Estadísticas partidos: 
-•https://es.whoscored.com/ o https://www.bdfutbol.com/es/index.html o soccerway
-  Recogeremos las estadísticas y sus respectivos mapas tras cada partido disputado
-
-MEDIACOACH: datos más detallados del partido sobre la posición del jugador, la distancia recorrida, la velocidad o los movimientos del balón
-https://www.mediacoach.es/
+•	API Google Maps
+•	Aforo en tiempo real de locales
+ 
